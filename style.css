@@ -89,6 +89,7 @@ img {
     background-color: white;
     padding: 5px 20px;
     box-shadow: 0 0 7px -3px var(--blue-text);
+    font-size: small;
 }
 
 #hero .wrapper {
