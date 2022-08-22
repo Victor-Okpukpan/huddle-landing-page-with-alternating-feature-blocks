@@ -138,6 +138,7 @@ img {
 .card .text {
     margin-top: 70px;
     text-align: center;
+    font-size: small;
 }
 
 .card .text h1 {
